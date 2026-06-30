@@ -1,3 +1,6 @@
-
-# Ignore backup zip files
-radgame*.zip
+# Build artifacts
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
