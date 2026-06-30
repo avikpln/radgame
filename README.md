@@ -83,10 +83,10 @@ radgame/
 │   ├── unionfind.py      # Union-find data structure
 │   ├── library.py        # Colors and quotes
 │   └── radgame.ico       # App icon
-├── design/                # UML class skeletons, screenshots, design assets
-├── db/                     # Original raw data (colors, quotes), later
-│                           # preprocessed and inlined into library.py
-├── Build.bat               # Builds the Windows executable
+├── design/               # UML class skeletons, screenshots, design assets
+├── db/                   # Original raw data (colors, quotes), later
+│                         # preprocessed and inlined into library.py
+├── Build.bat             # Builds the Windows executable
 └── README.md
 ```
 
