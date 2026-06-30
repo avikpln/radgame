@@ -1,34 +1,5 @@
 '''The radgamegui module'''
 
-# ============================================================================
-# TODO: Gather all TODOs and place in a single designated location.
-# ============================================================================
-# TODO: Testing - Unit Testing, Test Automation, Logging.
-# TODOC: Need documentation throughout the entire code.
-# TODO: Version control (Git).
-# ============================================================================
-# TODO: I made a detailed UML for the GUI (unfortunately) using Gaphor, which
-# decided for some reason to not open the file anymore. Stupid program!!! In
-# case we decide to make another one, let us try a different software.
-# ============================================================================
-# TODO: Embed in HTML (+ CSS + JavaScript).
-# ============================================================================
-# TODO: Add version number. What about a package?
-# ============================================================================
-# TODO: Replace RuntimeError with custom exceptions?
-# ============================================================================
-# NOTE: Installer:
-# 	python -m PyInstaller -F -w --name=radgame --icon=radgame.ico radgamegui.py
-# 	python -m PyInstaller --onefile -windowed --name=radgame --icon=radgame.ico radgamegui.py
-# ============================================================================
-# RFE:
-#	- Checkboxes for timer and randy.
-#	- List box for randy count.
-# ============================================================================
-# ACK:
-# 	- Thanks David Naori for the following ideas: coloring doors; timer.
-# ============================================================================
-
 # --- IMPORTS --- #
 import tkinter as tk
 from tkinter import ttk
